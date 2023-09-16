@@ -37,6 +37,6 @@
     "metro-react-native-babel-preset": "latest"
   },
   "dependencies": {
-    "react-native-snap-carousel": "latest"
+    "react-native-snap-carousel": "4.0.0-beta.6"
   }
 }
